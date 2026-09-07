@@ -1,0 +1,31 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+nav div {
+  display: flex;
+  gap: 1rem;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  line-height: 1.2;
+}
+
+main {
+  margin-bottom: 4rem;
+}

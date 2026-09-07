@@ -1,0 +1,6 @@
+baseURL = 'https://beta-is-good.com/'
+locale = 'en-us'
+title = 'Beta Is Good'
+
+[params]
+description = "Embedded software developer working with C, C++, and Linux applications."
